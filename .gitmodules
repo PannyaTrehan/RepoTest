@@ -1,3 +1,6 @@
 [submodule "Shehnaz"]
 	path = Shehnaz
 	url = https://github.com/PannyaTrehan/Shehnaz.git
+[submodule "sorting-visualiser"]
+	path = sorting-visualiser
+	url = https://github.com/PannyaTrehan/sorting-visualiser.git
